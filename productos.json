@@ -1,0 +1,14 @@
+[
+  { "sku": "ELE-001", "nombre": "Licuadora 600W 3 velocidades", "categoria": "electrodomesticos", "precio": 189900, "stock": 15, "icono": "🥤" },
+  { "sku": "ELE-002", "nombre": "Nevera No Frost 300L", "categoria": "electrodomesticos", "precio": 1899000, "stock": 4, "icono": "🧊" },
+  { "sku": "ELE-003", "nombre": "Microondas digital 20L", "categoria": "electrodomesticos", "precio": 329900, "stock": 9, "icono": "📟" },
+  { "sku": "ELE-004", "nombre": "Freidora de aire 4L", "categoria": "electrodomesticos", "precio": 359900, "stock": 3, "icono": "🍟" },
+  { "sku": "ELE-005", "nombre": "Lavadora automática 15kg", "categoria": "electrodomesticos", "precio": 1699000, "stock": 6, "icono": "🧺" },
+  { "sku": "HOG-001", "nombre": "Set de ollas antiadherentes 8 piezas", "categoria": "hogar", "precio": 249900, "stock": 12, "icono": "🍳" },
+  { "sku": "HOG-002", "nombre": "Lámpara LED de escritorio", "categoria": "hogar", "precio": 69900, "stock": 25, "icono": "💡" },
+  { "sku": "HOG-003", "nombre": "Organizador de cocina 3 niveles", "categoria": "hogar", "precio": 89900, "stock": 2, "icono": "🗄️" },
+  { "sku": "TEL-001", "nombre": "Cargador rápido 33W USB-C", "categoria": "telefonia", "precio": 59900, "stock": 40, "icono": "🔌" },
+  { "sku": "TEL-002", "nombre": "Funda antigolpes universal", "categoria": "telefonia", "precio": 39900, "stock": 30, "icono": "📱" },
+  { "sku": "TEL-003", "nombre": "Audífonos inalámbricos Bluetooth", "categoria": "telefonia", "precio": 129900, "stock": 18, "icono": "🎧" },
+  { "sku": "TEL-004", "nombre": "Vidrio templado 9H", "categoria": "telefonia", "precio": 19900, "stock": 4, "icono": "🛡️" }
+]
