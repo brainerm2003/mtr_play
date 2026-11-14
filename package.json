@@ -1,0 +1,13 @@
+{
+  "name": "mtr-play",
+  "version": "1.0.0",
+  "description": "MTR PLAY - tienda virtual de electrodomesticos, accesorios para casa y para telefono",
+  "main": "server.js",
+  "scripts": {
+    "seed": "node seed.js",
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=22.13" },
+  "license": "MIT"
+}
